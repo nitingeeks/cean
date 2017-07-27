@@ -1,0 +1,18 @@
+.addRecords{cursor:pointer}h1{padding-top:30px}#records{margin:60px 0}table tr td .edit{display:none}table tr.edit .edit{display:initial}table tr.edit .noedit{display:none}svg{display:block;margin-left:auto;margin-right:auto;background-color:#ccc;margin-top:80px}.countryAlgin .tick text{transform:rotate(-70deg)}.axis .tick{font-size:12px;color:#333;text-indent: 10em}.warning{border:1px solid red}.warningEnd{border:1px solid green}
+.toolTip {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        position: absolute;
+        display: none;
+        width: auto;
+        height: auto;
+        background: none repeat scroll 0 0 white;
+        border: 0 none;
+        border-radius: 8px 8px 8px 8px;
+        box-shadow: -3px 3px 15px #888888;
+        color: black;
+        font: 12px sans-serif;
+        padding: 5px;
+        text-align: center;
+    }
+
+    .graphArea {width: 1400px; overflow-x: scroll;}
